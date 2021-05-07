@@ -36,3 +36,11 @@ User with IP: '127.0.0.1' has changed his nick name to: 'elier'.
 User with IP: '127.0.0.1' has changed his nick name to: 'frank'.
 User <frank> has gone.
 User <elier> has gone.
+-->Client <User_1> has connected.
+User with IP: '127.0.0.1' has changed his nick name to: 'frank'.
+-->Client <User_2> has connected.
+User with IP: '127.0.0.1' has changed his nick name to: 'elier'.
+User <elier> has gone.
+-->Client <User_3> has connected.
+User with IP: '127.0.0.1' has changed his nick name to: 'messi'.
+User <messi> has gone.

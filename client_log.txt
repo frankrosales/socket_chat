@@ -27,3 +27,11 @@
 
 -->Connection established with server at port <8888>.
 -->Connection established with server at port <8888>.
+-->Connection established with server at port <8000>.
+-->Connection established with server at port <8000>.
+You are now disconnected.
+-->Connection established with server at port <8000>.
+You are now disconnected.
+-->Server has stoped.
+
+You are now disconnected.
