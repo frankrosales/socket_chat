@@ -8,7 +8,7 @@ To run server aplication you must execute the next two commands:<br>
    1- '$ gcc server.c -o server'<br>
    2- '$ ./server'
 
-To run a client you just need to execute the makefile by executing: '$ make'. If you get some error after executing this command, you must run the next two commands:<br>
+To run a client you just need to execute the makefile by runnig: '$ make'. If you get some error after executing this command, you must run the next two commands:<br>
     1- '$ gcc -pthread -no-pie client.c terminal.o -lncurses -o client'<br>
     2- '$ ./client'
 
