@@ -1,5 +1,5 @@
 # socket_chat
-The project is about a chat service implemented using the Linux Sockets interface in C. It's composed by two applications, a server and a client.
+This project is about a chat service implemented using the Linux Sockets interface in C. It's composed by two applications, a server and a client.
 
 ## Usage
 Both server and client are C applications that run on Linux terminal. The communication between clients and server is based in several commands.
