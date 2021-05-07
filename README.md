@@ -5,12 +5,12 @@ The project is about a chat service implemented using the Linux Sockets interfac
 Both server and client are C applications that run on Linux terminal. The communication between clients and server is based in several commands.
 
 To run server aplication you must execute the next two commands:
-   *1- '$ gcc server.c -o server'
-   *2- '$ ./server'
+   * 1- '$ gcc server.c -o server'
+   * 2- '$ ./server'
 
 To run a client you just need to execute the makefile by executing: '$ make'. If you get some error after executing this command, you must run the next two commands:
-    *1- '$ gcc -pthread -no-pie client.c terminal.o -lncurses -o client'
-    *2- '$ ./client'
+    * 1- '$ gcc -pthread -no-pie client.c terminal.o -lncurses -o client'
+    * 2- '$ ./client'
 
 ## Server Commands
 * /start [PORT]: Starts the server listenig at port: [PORT]. Ex: /start 8000
