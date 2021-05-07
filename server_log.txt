@@ -1,0 +1,38 @@
+-->Client <User_1> has connected.
+User <> has gone.
+-->Client <User_1> has connected.
+-->Client <User_2> has connected.
+User with IP: '127.0.0.1' has gchanged his nick name to: 'elier'.
+User with IP: '127.0.0.1' has gchanged his nick name to: 'frank'.
+User with IP: '127.0.0.1' has been baned.
+-->Client <User_1> has connected.
+User with IP: '127.0.0.1' has gchanged his nick name to: 'frank'.
+User with IP: '127.0.0.1' has been baned.
+-->Client <User_1> has connected.
+User with IP: '127.0.0.1' has been unbaned.
+-->Client <User_1> has connected.
+User with IP: '127.0.0.1' has been baned.
+User with IP: '127.0.0.1' has been unbaned.
+-->Client <User_2> has connected.
+-->Client <User_3> has connected.
+User with IP: '127.0.0.1' has gchanged his nick name to: 'elier'.
+User with IP: '127.0.0.1' has gchanged his nick name to: 'frank'.
+-->Client <User_1> has connected.
+-->Client <User_2> has connected.
+User with IP: '127.0.0.1' has gchanged his nick name to: 'eleir'.
+User with IP: '127.0.0.1' has gchanged his nick name to: 'frank'.
+User with IP: '127.0.0.1' has gchanged his nick name to: 'elier'.
+-->Client <User_1> has connected.
+User with IP: '127.0.0.1' has gchanged his nick name to: 'frank'.
+-->Client <User_2> has connected.
+User with IP: '127.0.0.1' has gchanged his nick name to: 'elier'.
+-->Client <User_1> has connected.
+User with IP: '127.0.0.1' has gchanged his nick name to: 'frank'.
+-->Client <User_2> has connected.
+User with IP: '127.0.0.1' has gchanged his nick name to: 'elier'.
+-->Client <User_1> has connected.
+-->Client <User_2> has connected.
+User with IP: '127.0.0.1' has changed his nick name to: 'elier'.
+User with IP: '127.0.0.1' has changed his nick name to: 'frank'.
+User <frank> has gone.
+User <elier> has gone.
